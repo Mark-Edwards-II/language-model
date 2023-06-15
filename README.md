@@ -2,8 +2,8 @@
 
 
 ##Todo
-    [] currently dropping a few words during ingestation.
+    - [] currently dropping a few words during ingestation.
     - Handle puctuation
-        [] quoting
-        [] ending punctuation . ? !
-        [] ; ,
+       - [] quoting
+       - [] ending punctuation . ? !
+       - [] ; ,
