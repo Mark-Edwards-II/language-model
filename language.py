@@ -138,7 +138,7 @@ def generate_text_from_bigrams(
 
 ### RUN CODE ###
 
-# This code runs the test cases to check your work
+
 if __name__ == "__main__":
     # test.test_all()
     test.run()
