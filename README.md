@@ -3,3 +3,7 @@
 
 ##Todo
     [] currently dropping a few words during ingestation.
+    - Handle puctuation
+        [] quoting
+        [] ending punctuation . ? !
+        [] ; ,
